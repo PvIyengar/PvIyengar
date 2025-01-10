@@ -1,5 +1,5 @@
 package DSA;
-public class MaximumSubArray{
+public class MaximumSubArraySum{
     static int maxLen(int[]  input){
         // given a list input
         // Get the max sum of any part of the array
